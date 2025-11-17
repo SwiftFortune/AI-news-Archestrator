@@ -67,7 +67,7 @@ News-Orchestrator/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/news-orchestrator.git
+git clone https://github.com/SwiftFortune/AI-news-Archestrator/blob/main/README.md
 cd news-orchestrator
 ```
 
