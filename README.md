@@ -122,19 +122,6 @@ http://localhost:8501
 | **BeautifulSoup** | HTML cleaning |
 | **dateparser** | Date normalization |
 
----
-
-## 📸 Screenshots (Add Your Own)
-
-| Feature | Screenshot |
-|--------|------------|
-| Summary Section | ![Summary Screenshot](assets/summary.png) |
-| Timeline | ![Timeline Screenshot](assets/timeline.png) |
-| Reliability Gauge | ![Gauge Screenshot](assets/gauge.png) |
-
-(Replace with real images)
-
----
 
 ## 🛠 Code Overview
 
